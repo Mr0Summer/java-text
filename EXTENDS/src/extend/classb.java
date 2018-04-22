@@ -1,10 +1,7 @@
 package extend;
 
 public class classb extends classes {						//beg商品 
-			
-		private String name;					//包名
-		private int price;							//价格
-			
+
 		public classb(String name, int price) {
 			super();
 			this.name = name;
