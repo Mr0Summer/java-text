@@ -10,6 +10,6 @@ public class classa extends classes{									//watch商品
 
 		
 		public void print() {							//表的print函数
-			System.out.println("this is a watch. Name:"+name+"Price:"+price);
+			System.out.println("this is a watch.		Name:"+name+"	Price:"+price);
 		}
 }

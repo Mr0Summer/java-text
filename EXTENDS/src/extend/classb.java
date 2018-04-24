@@ -9,6 +9,6 @@ public class classb extends classes {						//beg商品
 		}
 
 		public void print() {						//包的print函数
-				System.out.println("this is a beg. Name:"+name+"Price:"+price);
+				System.out.println("this is a beg.		Name:"+name+"	Price:"+price);
 		}
 }
