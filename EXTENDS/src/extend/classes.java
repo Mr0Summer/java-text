@@ -5,7 +5,10 @@ public class classes {
 	protected String name;	
 	protected int price;	
 	
-	public void print() {
-		System.out.println("extend from classes");
+	public classes(String name, int price) {
+		this.name = name;
+		this.price = price;
 	}
+
+	public void print() {	}
 }

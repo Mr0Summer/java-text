@@ -21,11 +21,8 @@ public class database {
 			database db = new database();
 			db.add( new classb( "ANTA" , 998 )  );
 			db.add( new classa( "CASIO" , 1000 )  );
-
-			db.list();
-		
-		
-		
+			db.add(new videoGames("hello", 100, 50) );
+			db.list();		
 	}
 
 }
